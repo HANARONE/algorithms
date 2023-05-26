@@ -10,6 +10,7 @@ brute force, backtracking, array, string
 stack, queue, deck, tree, hashing
 
 08
-dp, sliding window, 
+dp, sliding window, test
 
 09
+test
