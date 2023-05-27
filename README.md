@@ -14,3 +14,6 @@ dp, sliding window, test
 
 09
 test
+
+<br>
+sql과 동일하게 진행
