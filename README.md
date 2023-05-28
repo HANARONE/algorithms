@@ -19,7 +19,7 @@ dp, sliding window, test
 test
 
 <br>
-sql과 동일하게 진행
+<br>
 
 # Dinner with Algorithms Challenge
 
