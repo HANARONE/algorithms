@@ -64,7 +64,7 @@ goorm test
 |        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |      |      |      |
 |        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |      |      |      |      |
 |        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |      |      |      |
-|        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
+|        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |      |      |      |      |
 |        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |      |      |      |      |
 |        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |      |      |      |      |
 |        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |      |      |      |      |
@@ -81,7 +81,10 @@ goorm test
 |        | []                                                           |      |      |      |      |      |      |      |
 |        | []                                                           |      |      |      |      |      |      |      |
 |        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
+|        |                                                              |      |      |      |      |      |      |      |
+|        |                                                              |      |      |      |      |      |      |      |
+|        |                                                              |      |      |      |      |      |      |      |
+|        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
 |        | []                                                           |      |      |      |      |      |      |      |
 
 
