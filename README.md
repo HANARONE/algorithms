@@ -59,11 +59,11 @@ goorm test
 
 | date   | Solved                                                       | 정훈 | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
 | ------ | ------------------------------------------------------------ | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 06. 04 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |      |      |      |      |      |  ✅   |      |
-|        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |      |      |      |      |      |      |      |
-|        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |      |      |      |
-|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |      |      |      |      |
-|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |      |      |      |
+| 06. 04 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |      |      |      |      |   ✅   |  ✅   |      |
+|        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |      |      |      |      |   ✅   |      |      |
+|        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |   ✅   |      |      |
+|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |      |   ✅  |      |      |
+|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |   ✅   |      |      |
 |        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |      |      |      |      |
 |        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |      |      |      |      |
 |        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |      |      |      |      |
