@@ -70,7 +70,7 @@ goorm test
 |        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |      |      |      |      |   ✅   |  ✅    |      |
-|        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |      |   ✅   |      |
+|        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |   ✅   |   ✅   |      |
 |        | Simulation, Syntax                                           |      |      |      |      |      |   ✅   |      |
 | 06.18 | []                                                           |      |      |      |      |      |      |      |
 |        | []                                                           |      |      |      |      |      |      |      |
