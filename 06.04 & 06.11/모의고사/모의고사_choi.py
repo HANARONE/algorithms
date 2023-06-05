@@ -1,0 +1,22 @@
+def solution(answers):
+    answer = []
+    first = [1,2,3,4,5,1,2,3,4,5]
+    second = [2,1,2,3,2,4,2,5]
+    third = [3,3,1,1,2,2,4,4,5,5]
+    score = [0, 0, 0]
+
+    
+    for k, v in enumerate(answers):
+        if first[k % len(first)] == v:
+            score[0] += 1
+        if second[k % len(second)] == v:
+            score[1] += 1
+        if third[k % len(third)] == v:
+            score[2] += 1
+    
+    
+    for k, v in enumerate(score):
+        if max(score) == v:
+            answer.append(k + 1)
+    return answer
+    
