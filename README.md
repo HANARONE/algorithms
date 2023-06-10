@@ -62,14 +62,14 @@ goorm test
 | 06. 04 & 06.11 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |      |      |      |   ✅   |   ✅   |  ✅   | ✅ |
 |        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |      |      |      |   ✅   |   ✅   |   ✅   | ✅ |
 |        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |   ✅   |   ✅   |      |
-|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |      |   ✅  |   ✅   | ✅ |
+|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |   ✅   |   ✅  |   ✅   | ✅ |
 |        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |      |   ✅   |   ✅   |      |
-|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |      |   ✅   |   ✅   | ✅ |
-|        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |      |   ✅   |   ✅   |      |
+|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |   ✅   |   ✅   |   ✅   | ✅ |
+|        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |   ✅   |   ✅   |   ✅   |      |
 |        | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |      |   ✅   |   ✅   | ✅ |
-|        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |      |      |      |      |   ✅   |  ✅    | ✅ |
+|        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |      |      |      |   ✅   |   ✅   |  ✅    | ✅ |
 |        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |   ✅   |   ✅   |      |
 |        | Simulation, Syntax                                           |      |      |      |      |      |   ✅   |      |
 | 06.18 | []                                                           |      |      |      |      |      |      |      |
