@@ -72,19 +72,21 @@ goorm test
 |        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |      |      |      |   ✅   |   ✅   |  ✅    | ✅ |
 |        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |   ✅   |   ✅   |      |
 |        | Simulation, Syntax                                           |      |      |      |      |      |   ✅   |      |
-| 06.18 | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | []                                                           |      |      |      |      |      |      |      |
-|        | CT :                                                             |      |      |      |      |      |      |      |
-|        |                                                              |      |      |      |      |      |      |      |
-|        |                                                              |      |      |      |      |      |      |      |
+| 06.18 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |      |      |      |      |      |      |      |
+|        | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |      |      |      |      |      |      |      |
+|        | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |      |      |      |
+|        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |      |      |      |      |      |      |      |
+|        | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
+|        | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |      |      |      |      |      |      |      |
+| | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
+|        | CT : NOVICE LOW                                                 |      |      |      |      |      |      |      |
+|        | CT : NOVICE MID : 함수, 재귀함수 |      |      |      |      |      |      |      |
+|        | CT : NOVICE MID : 정렬 |      |      |      |      |      |      |      |
+| | CT : NOVICE MID : 시뮬레이션 1 | | | | | | | |
+| | CT : NOVICE MID : 시뮬레이션 2 | | | | | | | |
+| | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
+| 06.25 |  | | | | | | | |
+| |  | | | | | | | |
 |        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
 |        | []                                                           |      |      |      |      |      |      |      |
 
