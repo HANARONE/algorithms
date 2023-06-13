@@ -73,7 +73,7 @@ goorm test
 |        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |   ✅   |   ✅   |      |
 |        | Simulation, Syntax                                           |      |      |      |      |      |   ✅   |      |
 | 06.18 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |      |      |      |      |      |      |  ✅   |
-|        | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |      |      |      |      |      |      |      |
+|        | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |      |      |      |      |      |      |   ✅  |
 |        | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |      |      |      |
 |        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |      |      |      |      |      |      |      |
 |        | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
