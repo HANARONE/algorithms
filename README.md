@@ -79,7 +79,7 @@ goorm test
 |        | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 |        | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |      |      |      |      |      |      |      |
 | | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
-|        | CT : NOVICE LOW                                                 |      |      |      |      |      |      |   ✅   |
+|        | CT : NOVICE LOW                                                 |      |   ✅   |      |      |      |      |   ✅   |
 |        | CT : NOVICE MID : 함수, 재귀함수 |      |      |      |      |      |      |      |
 |        | CT : NOVICE MID : 정렬 |      |      |      |      |      |      |      |
 | | CT : NOVICE MID : 시뮬레이션 1 | | | | | | | |
