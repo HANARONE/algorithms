@@ -84,11 +84,9 @@ goorm test
 |                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
 |        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
-| |  | | | | | | | |
-|        | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 | | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
 | | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | | | | | | | |
-| 07. 02         |                                                              |      |      |      |      |      |      |      |
+| 07. 02         | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 |                |                                                              | | | | | | | |
 
 
