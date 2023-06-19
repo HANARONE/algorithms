@@ -86,6 +86,8 @@ goorm test
 |        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
 | | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
 | | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | | | | | | | |
+| | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | | | | | | | |
+| | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | | | | | | | |
 | 07. 02         | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 |                |                                                              | | | | | | | |
 
