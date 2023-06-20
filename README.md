@@ -85,13 +85,13 @@ goorm test
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
 |        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
 | | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | | | | | | | |
-| | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | | | | | | | |
+| | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | |✅ | | | | | |
 | | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | | | | | | | |
 | + level 3 - 4 | [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=python3) | | | | | | | |
 | | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | | | | | | | |
 | | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | | | | | | | |
 | | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | | | | | | | |
-| | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | | | | | | | |
+| | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | |✅ | | | | | |
 | 07. 02         | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 |                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
 
