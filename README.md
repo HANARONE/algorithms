@@ -83,7 +83,7 @@ goorm test
 |                | CT : NOVICE MID : 시뮬레이션 2                               |      |      |      |      |      |      |      |
 |                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
-|        | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |      |      |      |      |      |      |      |
+|        | [BOJ_공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |      |      |      |      |
 | | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | | | | | | | |
 | | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | |✅ | | | | | |
 | | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | | | | | | | |
@@ -94,6 +94,8 @@ goorm test
 | | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | |✅ | | | | | |
 | 07. 02         | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |      |      |      |
 |                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
+| | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | | | | | | | |
+| |  | | | | | | | |
 
 
 
