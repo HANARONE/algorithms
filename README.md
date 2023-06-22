@@ -79,7 +79,7 @@ goorm test
 |        | CT : NOVICE LOW                                                 |      |   ✅   |      |      |      | ✅ |   ✅   |
 |        | CT : NOVICE MID : 함수, 재귀함수 |      |   ✅   |      |      |      | ✅ |      |
 |        | CT : NOVICE MID : 정렬 |      |      |      |      |      |  |      |
-| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |      |      |      |      |      |      |
+| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |   ✅   |      |      |      |      |      |
 |                | CT : NOVICE MID : 시뮬레이션 2                               |      |      |      |      |      |      |      |
 |                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
