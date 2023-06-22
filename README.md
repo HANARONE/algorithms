@@ -77,7 +77,7 @@ goorm test
 |        | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |   ✅   | ✅ |      |
 |        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |      |   ✅   |      |      |   ✅   | ✅ |      |
 |        | CT : NOVICE LOW                                                 |      |   ✅   |      |      |      | ✅ |   ✅   |
-|        | CT : NOVICE MID : 함수, 재귀함수 |      |   ✅   |      |      |      | ✅ |      |
+|        | CT : NOVICE MID : 함수, 재귀함수 |      |   ✅   |      |      |      | ✅ | ✅ |
 |        | CT : NOVICE MID : 정렬 |      |      |      |      |      |  |      |
 | 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |   ✅   |      |      |      |      |      |
 |                | CT : NOVICE MID : 시뮬레이션 2                               |      |      |      |      |      |      |      |
