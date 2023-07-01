@@ -63,7 +63,7 @@ goorm test
 |        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |      |   ✅   |      |   ✅   |   ✅   |   ✅   | ✅ |
 |        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |   ✅   |   ✅  |   ✅   | ✅ |
-|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |   ✅   |   ✅   |      |
+|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |   ✅   |   ✅   | ✅ |
 |        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |      |   ✅   |   ✅   |      |
 |        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |   ✅   |   ✅   |   ✅   | ✅ |
@@ -78,9 +78,9 @@ goorm test
 |        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |      |   ✅   |      |      |   ✅   | ✅ |      |
 |        | CT : NOVICE LOW                                                 |      |   ✅   |      |      |      | ✅ |   ✅   |
 |        | CT : NOVICE MID : 함수, 재귀함수 |      |   ✅   |      |      |      | ✅ | ✅ |
-|        | CT : NOVICE MID : 정렬 |      |      |      |      |      |  |      |
-| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |   ✅   |      |      |      |      |      |
-|                | CT : NOVICE MID : 시뮬레이션 2                               |      |   ✅   |      |      |      |      |      |
+|        | CT : NOVICE MID : 정렬 |      |      |      |      |      |  | ✅ |
+| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |   ✅   |      |      |      |      | ✅ |
+|                | CT : NOVICE MID : 시뮬레이션 2                               |      |   ✅   |      |      |      |      | ✅ |
 |                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
 |        | [BOJ_공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |      |      |      |      |
