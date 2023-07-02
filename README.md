@@ -84,7 +84,7 @@ goorm test
 |                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
 | | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
 |        | [BOJ_공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |      |      |      |      |
-| | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | | | | | ✅ | | |
+| | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | |✅ | | | ✅ | | |
 | | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | |✅ | | | ✅ | | ✅ |
 | | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | |✅ | | | | | |
 | + level 3 - 4 | [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=python3) | | | | | | | |
