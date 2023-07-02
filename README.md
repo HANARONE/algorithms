@@ -92,7 +92,18 @@ goorm test
 | | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | | | | | | | |
 | | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | | | | | ✅ | | |
 | | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | |✅ | | | ✅ | | |
-| 07. 02         | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |   ✅   |      |      |
+| 07. 02 | CT : NOVICE MID : 완전탐색 3 | | | | |  | | |
+|  | CT : NOVICE MID : 케이스별로 나누기 | | | | |  | | |
+|  | CT : NOVICE MID : Ad-Hoc | | | | |  | | |
+|  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | | |  | | |
+|  | CT : NOVICE HIGH : 배열, 연결 리스트 | | | | |  | | |
+|  |  | | | | |  | | |
+|  |  | | | | |  | | |
+|  |  | | | | |  | | |
+|  |  | | | | |  | | |
+|  |  | | | | |  | | |
+|  |  | | | | |  | | |
+| + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |   ✅   |      |      |
 |                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
 | | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | | | | | | | |
 | |  | | | | | | | |
