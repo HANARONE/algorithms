@@ -92,7 +92,7 @@ goorm test
 | | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | | | | | | |
 | | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | | | | ✅ | | |
 | | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |✅ | | | ✅ | | |
-| 07. 02 | CT : NOVICE MID : 완전탐색 3 | | | |  | | |
+| 07. 09 | CT : NOVICE MID : 완전탐색 3 | | | |  | | |
 |  | CT : NOVICE MID : 케이스별로 나누기 | | | |  | | |
 |  | CT : NOVICE MID : Ad-Hoc | | | |  | | |
 |  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | |  | | |
