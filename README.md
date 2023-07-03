@@ -57,56 +57,56 @@ goorm test
 
 > Programmers Kit [link](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved&page=1&languages=oracle)
 
-| date   | Solved                                                       | 정훈 | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
-| ------ | ------------------------------------------------------------ | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 06. 04 & 06.11 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |      |   ✅   |    ✅  |   ✅   |   ✅   |  ✅   | ✅ |
-|        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |      |   ✅   |      |   ✅   |   ✅   |   ✅   | ✅ |
-|        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |      |   ✅   |   ✅   |      |
-|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |      |   ✅   |   ✅  |   ✅   | ✅ |
-|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |      |   ✅   |   ✅   | ✅ |
-|        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |      |   ✅   |   ✅   |      |
-|        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |      |   ✅   |   ✅   |      |
-|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |      |   ✅   |   ✅   |   ✅   | ✅ |
-|        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |      |   ✅   |   ✅   |   ✅   |      |
-|        | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |      |   ✅   |   ✅   | ✅ |
-|        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |      |   ✅   |      |   ✅   |   ✅   |  ✅    | ✅ |
-|        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |      |   ✅   |   ✅   |      |
-|        | Simulation, Syntax                                           |      |      |      |      |      |   ✅   |      |
-| 06.18 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |      |   ✅   |      |   ✅   |   ✅   | ✅ |  ✅   |
-|        | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |      |   ✅   |      |   ✅   |   ✅   | ✅ |   ✅  |
-|        | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |      |   ✅   | ✅ |      |
-|        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |      |   ✅   |      |      |   ✅   | ✅ |      |
-|        | CT : NOVICE LOW                                                 |      |   ✅   |      |      |      | ✅ |   ✅   |
-|        | CT : NOVICE MID : 함수, 재귀함수 |      |   ✅   |      |      |      | ✅ | ✅ |
-|        | CT : NOVICE MID : 정렬 |      |      |      |      |      |  | ✅ |
-| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |      |   ✅   |      |      |      |      | ✅ |
-|                | CT : NOVICE MID : 시뮬레이션 2                               |      |   ✅   |      |      |      |      | ✅ |
-|                | CT : NOVICE MID : 완전탐색 1 | | | | | | | |
-| | CT : NOVICE MID : 완전탐색 2 | | | | | | | |
-|        | [BOJ_공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |      |      |      |      |
-| | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | |✅ | | | ✅ | | |
-| | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | |✅ | | | ✅ | | ✅ |
-| | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | |✅ | | | | | |
-| + level 3 - 4 | [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=python3) | | | | | | | |
-| | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | | | | | | | |
-| | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | | | | | | | |
-| | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | | | | | ✅ | | |
-| | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | |✅ | | | ✅ | | |
-| 07. 02 | CT : NOVICE MID : 완전탐색 3 | | | | |  | | |
-|  | CT : NOVICE MID : 케이스별로 나누기 | | | | |  | | |
-|  | CT : NOVICE MID : Ad-Hoc | | | | |  | | |
-|  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | | |  | | |
-|  | CT : NOVICE HIGH : 배열, 연결 리스트 | | | | |  | | |
-|  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | | |  | | |
-|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | | | | |  | | |
-|  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | | | | |  | | |
-|  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | | |  | | |
-|  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | | |  | | |
-|  | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | | | | |  | | |
-| + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |      |   ✅   |      |      |
-|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | | |
-| | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | | | | | | | |
-| |  | | | | | | | |
+| date   | Solved                                                       | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
+| ------ | ------------------------------------------------------------ | :--: | :--: | :--: | :--: | :--: | :--: |
+| 06. 04 & 06.11 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |   ✅   |    ✅  |   ✅   |   ✅   |  ✅   | ✅ |
+|        | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |   ✅   |      |   ✅   |   ✅   |   ✅   | ✅ |
+|        | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |      |      |      |   ✅   |   ✅   |      |
+|        | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |      |      |   ✅   |   ✅  |   ✅   | ✅ |
+|        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |   ✅   |   ✅   | ✅ |
+|        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |   ✅   |   ✅   |      |
+|        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |   ✅   |   ✅   |      |
+|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |   ✅   |   ✅   |   ✅   | ✅ |
+|        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |   ✅   |   ✅   |   ✅   |      |
+|        | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |   ✅   |   ✅   | ✅ |
+|        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |   ✅   |      |   ✅   |   ✅   |  ✅    | ✅ |
+|        | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |      |      |      |   ✅   |   ✅   |      |
+|        | Simulation, Syntax                                           |      |      |      |      |   ✅   |      |
+| 06.18 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |   ✅   |      |   ✅   |   ✅   | ✅ |  ✅   |
+|        | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) |   ✅   |      |   ✅   |   ✅   | ✅ |   ✅  |
+|        | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |      |      |      |   ✅   | ✅ |      |
+|        | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |   ✅   |      |      |   ✅   | ✅ |      |
+|        | CT : NOVICE LOW                                                 |   ✅   |      |      |      | ✅ |   ✅   |
+|        | CT : NOVICE MID : 함수, 재귀함수 |   ✅   |      |      |      | ✅ | ✅ |
+|        | CT : NOVICE MID : 정렬 |      |      |      |      |  | ✅ |
+| 06. 25         | CT : NOVICE MID : 시뮬레이션 1                               |   ✅   |      |      |      |      | ✅ |
+|                | CT : NOVICE MID : 시뮬레이션 2                               |   ✅   |      |      |      |      | ✅ |
+|                | CT : NOVICE MID : 완전탐색 1 | | | | | | |
+| | CT : NOVICE MID : 완전탐색 2 | | | | | | |
+|        | [BOJ_공유기 설치](https://www.acmicpc.net/problem/2110) |      |      |      |      |      |      |
+| | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |✅ | | | ✅ | | |
+| | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) |✅ | | | ✅ | | ✅ |
+| | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |✅ | | | | | |
+| + level 3 - 4 | [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=python3) | | | | | | |
+| | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | | | | | | |
+| | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | | | | | | |
+| | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | | | | ✅ | | |
+| | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |✅ | | | ✅ | | |
+| 07. 02 | CT : NOVICE MID : 완전탐색 3 | | | |  | | |
+|  | CT : NOVICE MID : 케이스별로 나누기 | | | |  | | |
+|  | CT : NOVICE MID : Ad-Hoc | | | |  | | |
+|  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | |  | | |
+|  | CT : NOVICE HIGH : 배열, 연결 리스트 | | | |  | | |
+|  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | |  | | |
+|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | | | |  | | |
+|  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | | | |  | | |
+|  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | |  | | |
+|  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | |  | | |
+|  | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | | | |  | | |
+| + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |   ✅   |      |      |
+|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | |
+| | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | | | | | | |
+| |  | | | | | | |
 
 
 
