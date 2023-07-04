@@ -97,8 +97,8 @@ goorm test
 |  | CT : NOVICE MID : Ad-Hoc | | | |  | | |
 |  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | |  | | |
 |  | CT : NOVICE HIGH : 배열, 연결 리스트 | | | |  | | |
-|  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | |  | | |
-|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | | | |  |✅ | |
+|  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | |  | | ✅ |
+|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | | | |  |✅ | ✅ |
 |  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | | | |  | | |
 |  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | |  | | |
 |  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | |  | | |
