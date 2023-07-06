@@ -100,7 +100,7 @@ goorm test
 |  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | | ✅ | | ✅ |
 |  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | | | | ✅ |✅ | ✅ |
 |  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | | | | ✅ | | |
-|  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | |  | | |
+|  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | | ✅ | | |
 |  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | | ✅ | | |
 |  | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | | | |  | | |
 | + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |   ✅   |      |      |
