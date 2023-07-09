@@ -55,3 +55,9 @@ def solution():
 늘 내가 피하는 비트마스킹 풀이도 있다
 
 '''
+def solution(numbers):
+    answer = []
+    for idx, val in enumerate(numbers):
+        answer.append(((val ^ (val+1)) >> 2) +val +1)
+
+    return answer
