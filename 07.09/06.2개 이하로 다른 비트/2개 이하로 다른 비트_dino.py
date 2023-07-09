@@ -29,16 +29,18 @@ def int_to_bin(x):
     temp.reverse()
     answer = "".join(map(str, temp))
 
-    return answr
+    return answer
 
 def solution():
     answer = []
 
     for num in numbers:
+        # 짝수
         if num % 2 == 0:
             answer.append(num + 1)
             continue
 
+        # 홀수
         else:
             bin_num = int_to_bin(num)
             if not '0' in bin_num:
@@ -60,4 +62,15 @@ def solution(numbers):
     for idx, val in enumerate(numbers):
         answer.append(((val ^ (val+1)) >> 2) +val +1)
 
+    return answer
+
+def solution(numbers):
+    answer = []
+    for n in numbers:
+        gap = n^(n+1)
+        if gap < 4 :
+            answer.append(n+1)
+        else:
+            gap = gap >> (2)
+            answer.append(n+1+gap)
     return answer
