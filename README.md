@@ -57,6 +57,38 @@ goorm test
 
 > Programmers Kit [link](https://school.programmers.co.kr/learn/challenges?order=recent&statuses=solved&page=1&languages=oracle)
 
+
+
+
+
+| Date  | Description                 | 영지 | 도윤 | 승호 | 병준 | 용재 | 성욱 |
+| ----- | --------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 07.16 | CT : NOVICE HIGH : 정렬     |      |      |      |      |      |      |
+|       | CT : NOVICE HIGH : 이진탐색 |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+|       |                             |      |      |      |      |      |      |
+
+
+
+
+
+
+
+------
+
+-----
+
+
+
+
+
+
+
 | date   | Solved                                                       | 승호 | 성욱 | 용재 | 도윤 | 영지 | 병준 |
 | ------ | ------------------------------------------------------------ | :--: | :--: | :--: | :--: | :--: | :--: |
 | 06. 04 & 06.11 | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |   ✅   |    ✅  |   ✅   |   ✅   |  ✅   | ✅ |
