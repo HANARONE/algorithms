@@ -70,7 +70,7 @@ goorm test
 |             | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |      |      |      | ✅    |      |      |
 |             | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |      |      |      | ✅    |      |      |
 |             | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |      |      |      |      |      |      |
-|             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |      |      |      |      |      |      |
+|             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  ✅     |      |      |      |      |      |
 | + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |      |      |      |      |      |
 |             | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |      |      |      |      |      |      |
 |             | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |      |      |      |      |      |      |
@@ -132,7 +132,7 @@ goorm test
 |  | CT : NOVICE HIGH : 시간, 공간 복잡도 | | | |  | | |
 |  | CT : NOVICE HIGH : 배열, 연결 리스트 | | | |  | | |
 |  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | | | | ✅ | ✅ | ✅ |
-|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | |✅ |✅| ✅ |✅ | ✅ |
+|  | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | ✅ |✅ |✅| ✅ |✅ | ✅ |
 |  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | | | | ✅ | ✅ | ✅ |
 |  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | | | | ✅ | ✅ | |
 |  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | | ✅ | ✅ | |
