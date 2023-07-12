@@ -1,3 +1,4 @@
+```python
 def solution(cards1, cards2, goal):
     for g in goal:
         if cards1 and cards1[0] == g:
@@ -7,3 +8,5 @@ def solution(cards1, cards2, goal):
         else:
             return 'No'
     return 'Yes'
+```
+
