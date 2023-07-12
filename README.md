@@ -67,10 +67,10 @@ goorm test
 | 07.16       | CT : NOVICE HIGH : 정렬                                      |      |      |      |      |      |      |
 |             | CT : NOVICE HIGH : 이진탐색                                  |      |      |      |      |      |      |
 |             | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=python3) |      |   ✅   |      |      |      |      |
-|             | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |      |   ✅   |      | ✅    |      |      |
+|             | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |      |   ✅   |   ✅   | ✅    |      |      |
 |             | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |      |   ✅   |      | ✅    |      |      |
 |             | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |      |      |      |      |      |      |
-|             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  ✅     |      |      | ✅ |      |      |
+|             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  ✅     |      |   ✅   | ✅ |      |      |
 | + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |      |      |      |      |      |
 |             | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |      |      |      |      |      |      |
 |             | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |      |      |      |      |      |      |
@@ -100,7 +100,7 @@ goorm test
 |        | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |      |      |      |   ✅   |   ✅   | ✅ |
 |        | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |      |      |      |   ✅   |   ✅   |      |
 |        | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |      |      |      |   ✅   |   ✅   |      |
-|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |      |      |   ✅   |   ✅   |   ✅   | ✅ |
+|        | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |   ✅   |      |   ✅   |   ✅   |   ✅   | ✅ |
 |        | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |      |      |   ✅   |   ✅   |   ✅   |      |
 |        | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |      |      |      |   ✅   |   ✅   | ✅ |
 |        | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) |   ✅   |      |   ✅   |   ✅   |  ✅    | ✅ |
