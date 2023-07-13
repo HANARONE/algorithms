@@ -64,7 +64,7 @@ goorm test
 
 | Date        | Description                                                  | 영지 | 도윤 | 승호 | 병준 | 용재 |
 | ----------- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
-|  | [섬의 개수](https://www.acmicpc.net/problem/4963) |  |  |  |  |  |
+| + level 3-4 | [섬의 개수](https://www.acmicpc.net/problem/4963) |  |  |  |  |  |
 |  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  |  |  |
 |             | [부분합](https://www.acmicpc.net/problem/1806) |      |      |      |      |      |
 | 07.16       | CT : NOVICE HIGH : 정렬                                      |      |      |      |      |      |
