@@ -74,7 +74,7 @@ goorm test
 |             | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | ✅ |   ✅   |   ✅   | ✅    |   ✅   |
 |             | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | ✅ |   ✅   |      |      |      |
 |             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  ✅     |  ✅    |   ✅   | ✅ |   ✅   |
-| + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |      |      |      |      |
+| + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |  ✅    |      |      |      |
 |             | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |      |      |      |      |      |
 |             | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |      |      |      |      |      |
 
