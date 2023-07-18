@@ -142,7 +142,7 @@ goorm test
 |  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | | ✅ | ✅ | |
 |  | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | | | |  | ✅ | |
 | + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |   ✅   | ✅ |      |
-|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | |
+|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | ✅| | |
 | | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | | | | | ✅ | |
 | | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | | | | | ✅ | |
 | 07.16 |  | | | | | | |
