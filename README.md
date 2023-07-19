@@ -64,6 +64,13 @@ goorm test
 
 | Date        | Description                                                  | 영지 | 도윤 | 승호 | 병준 | 용재 |
 | ----------- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 07.23 | CT : Novice High : 이진탐색 |  |  |  |  |  |
+|  | CT : Novice High :  스택, 큐, 덱 |  |  |  |  |  |
+|  | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) |  |  |  |  |  |
+|  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) |  |  |  |  |  |
+|  | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) |  |  |  |  |  |
+|  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) |  |  |  |  |  |
+|  | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) |  |  |  |  |  |
 | + level 3-4 | [섬의 개수](https://www.acmicpc.net/problem/4963) |  |  |  |  |  |
 |  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  |  |  |
 |             | [부분합](https://www.acmicpc.net/problem/1806) |      |      |      |      |      |
