@@ -72,7 +72,7 @@ goorm test
 |  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) |  |  |✅  | ✅ |  |
 |  | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) |  |  |  |  |  |
 | + level 3-4 | [섬의 개수](https://www.acmicpc.net/problem/4963) |  |  |  |  |  |
-|  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  |  |  |
+|  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  | ✅ |  |
 |             | [부분합](https://www.acmicpc.net/problem/1806) |      |      |      |      |      |
 | 07.16       | CT : NOVICE HIGH : 정렬                                      |      |      |      |      |      |
 |             | CT : NOVICE HIGH : 이진탐색                                  |      |      |      |      |      |
