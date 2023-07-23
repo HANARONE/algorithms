@@ -64,17 +64,24 @@ goorm test
 
 | Date        | Description                                                  | 영지 | 도윤 | 승호 | 병준 | 용재 |
 | ----------- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 07.23 | CT : Novice High : 이진탐색 |  |  |  |  |  |
+|  | CT : Novice High :  스택, 큐, 덱 |  |  |  |  |  |
+|  | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | ✅ | ✅ | ✅ | ✅ | ✅ |
+|  | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | ✅ | ✅ | ✅ | ✅ |  |
+|  | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | ✅ | ✅ | ✅ | ✅ | ✅ |
+|  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | ✅ | ✅ |✅  | ✅ | ✅ |
+|  | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | ✅ | ✅ |  |  |  |
 | + level 3-4 | [섬의 개수](https://www.acmicpc.net/problem/4963) |  |  |  |  |  |
-|  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  |  |  |
-|             | [부분합](https://www.acmicpc.net/problem/1806) |      |      |      |      |      |
+|  | [두 수의 합](https://www.acmicpc.net/problem/3273) |  |  |  | ✅ |  |
+|             | [부분합](https://www.acmicpc.net/problem/1806) | ✅ |      |      |      |      |
 | 07.16       | CT : NOVICE HIGH : 정렬                                      |      |      |      |      |      |
 |             | CT : NOVICE HIGH : 이진탐색                                  |      |      |      |      |      |
 |             | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871?language=python3) | ✅ |   ✅   |      |      |      |
 |             | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | ✅ |   ✅   |   ✅   | ✅    |      |
-|             | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | ✅ |   ✅   |      | ✅    |   ✅   |
+|             | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | ✅ |   ✅   |   ✅   | ✅    |   ✅   |
 |             | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | ✅ |   ✅   |      |      |      |
 |             | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  ✅     |  ✅    |   ✅   | ✅ |   ✅   |
-| + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |      |      |      |      |
+| + level 3,4 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |      |  ✅    |      |      |      |
 |             | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |      |      |      |      |      |
 |             | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |      |      |      |      |      |
 
@@ -142,7 +149,7 @@ goorm test
 |  | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | | | | ✅ | ✅ | |
 |  | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | | | |  | ✅ | |
 | + level 3 - 4 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |      |      |      |   ✅   | ✅ |      |
-|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | | | |
+|                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | | | | ✅| | |
 | | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | | | | | ✅ | |
 | | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | | | | | ✅ | |
 | 07.16 |  | | | | | | |
