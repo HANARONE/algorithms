@@ -64,6 +64,15 @@ goorm test
 
 | Date        | Description                                                  | 영지 | 도윤 | 승호 | 병준 | 용재 |
 | ----------- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 07.30 | CT : 진도 맞추기 |  |  |  |  |  |
+|  | [푸드 파이트 대회](https://arnorfati.github.io/data-visualisation-with-d3/) |  |  |  |  |  |
+|  | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) |  |  |  |  |  |
+|  | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  |  |  |  |  |
+|  | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) |  |  |  |  |  |
+|  | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) |  |  |  |  |  |
+| + LEVEL 3-4 | [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186) |  |  |  |  |  |
+|  | [부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) |  |  |  |  |  |
+|  | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |  |  |  |  |  |
 | 07.23 | CT : Novice High : 이진탐색 |  |  |  |  |  |
 |  | CT : Novice High :  스택, 큐, 덱 |  |  |  |  |  |
 |  | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | ✅ | ✅ | ✅ | ✅ | ✅ |
