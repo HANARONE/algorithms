@@ -65,7 +65,7 @@ goorm test
 | Date        | Description                                                  | 영지 | 도윤 | 승호 | 병준 | 용재 |
 | ----------- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
 | 07.30 | CT : 진도 맞추기 |  |  |  |  |  |
-|  | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  |  |  |  |  |
+|  | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  |  |  | ✅ |      |
 |  | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) |  |  |  |  |  |
 |  | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  |  |  |  |  |
 |  | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) |  |  |  |  |  |
